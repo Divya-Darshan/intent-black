@@ -20,8 +20,10 @@ config/icon="res://icon.svg"
 
 [display]
 
-window/stretch/mode="canvas_items"
-window/stretch/aspect="expand"
+window/size/resizable=false
+window/energy_saving/keep_screen_on=false
+window/subwindows/embed_subwindows=false
+window/dpi/allow_hidpi=false
 
 [dotnet]
 
@@ -37,3 +39,4 @@ project/assembly_name="dialer"
 rendering_device/driver.windows="d3d12"
 renderer/rendering_method="mobile"
 textures/vram_compression/import_etc2_astc=true
+shading/overrides/force_lambert_over_burley.mobile=false
