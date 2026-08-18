@@ -1,6 +1,7 @@
 9cad1ddce9e5a63143ba340c9520626b
-::res://::1787066364
-export_presets.cfg::TextFile::-1::1787066006::0::1::::<><><>0<>0<><>::
+::res://::1787066638
+export_presets.cfg::TextFile::-1::1787066421::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::4504626501950929071::1787061020::1787066234::1::::<><><>0<>0<>5d5ebd7ea2c3ca65f61e91bf63db9997<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+img.png::CompressedTexture2D::8887121564990687812::1787066638::1787066642::1::::<><><>0<>0<>93ee152b5a3c2e1ccfd308940d7dfbee<>res://.godot/imported/img.png-4c465fa38e4974dfeba7721e2ca1cc84.ctex::
 main.gd::GDScript::199186135279128990::1787064904::0::1::::<>Node2D<><>0<>0<><>::
 main.tscn::PackedScene::8585998030300348396::1787063380::0::1::::<><><>0<>0<><>::uid://c3qti6suqcn3::::res://main.gd
