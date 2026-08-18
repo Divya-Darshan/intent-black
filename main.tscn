@@ -6,9 +6,9 @@
 script = ExtResource("1_ig7tw")
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1488156385]
-offset_left = -496.99997
+offset_left = -497.00003
 offset_top = -175.0
-offset_right = -456.99997
+offset_right = -457.00003
 offset_bottom = -135.0
 scale = Vector2(56.023685, 24.858463)
 color = Color(0, 0, 0, 1)
